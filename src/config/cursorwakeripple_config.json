@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Name": "Cursor Wake Ripple",
+        "Description": "Configure the cursor wake ripple effect",
+        "Icon": "preferences-system-windows-effect-trackmouse"
+    },
+    "X-KDE-ParentApp": "kwin___cursorwakeripple",
+    "X-KDE-ParentComponents": "cursorwakeripple"
+}

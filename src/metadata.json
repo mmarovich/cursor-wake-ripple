@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max Marovich"
+            }
+        ],
+        "Category": "Accessibility",
+        "Description": "Ripples (warps) the screen content under the cursor when the pointer wakes up after being idle",
+        "EnabledByDefault": false,
+        "License": "GPL-2.0-or-later",
+        "Name": "Cursor Wake Ripple",
+        "Version": "0.1.0"
+    },
+    "X-KDE-ConfigModule": "kwin_cursorwakeripple_config",
+    "org.kde.kwin.effect": {}
+}
